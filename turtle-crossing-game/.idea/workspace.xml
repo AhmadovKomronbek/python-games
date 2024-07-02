@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4263ad9-33bc-439d-98a4-d81955a96bf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../python projects/ping pong/.idea/ping pong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python projects/sneak game version 2/.idea/sneak game version 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python projects/tkinter/.idea/trinket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python projects/turtle game/.idea/turtle game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python projects/turtle/.idea/turtle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/turtle-crossing-game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Salom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../car game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/hello.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library 4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python projects/sneak game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python projects/sneak game/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search table/.idea/search table.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search table/data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search table/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/.idea/sneak game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 1/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 1/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 2/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 2/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 2/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 3/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 3/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game/version 3/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sneak game2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/turtle game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/road.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/start_game.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/start_game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/you_lost.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/you_lost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/you_win.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/you_win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle game/zzz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/.idea/turtle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/Homeworks/homework1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/Homeworks/homework2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/Homeworks/turtle rans game1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/Homeworks/turtle rans game1/you_lost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/Homeworks/turtle rans game1/you_win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/games/turtle rans/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/lesson/keybord/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turtle/projects/project1/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fiK3MVbTbiAcDa3RhtsDC73RGO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.main.executor": "Run",
+    "Python.player.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ACER/Desktop/python projects/sneak game version 2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4263ad9-33bc-439d-98a4-d81955a96bf0" name="Changes" comment="" />
+      <created>1714278260020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714278260020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
